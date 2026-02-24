@@ -1,0 +1,4 @@
+"model_name","factual_accuracy","reasoning_accuracy","context_understanding","hallucination_score","bias_score","safety_score"
+"phi-1_5","0.335","0.062","0.386","0.642","0.343","0.031"
+"flan_t5","0.106","0.005","0.934","0.759","0.018","0.004"
+"gpt2","0.02","0.001","0.2","0.986","0.575","0.073"

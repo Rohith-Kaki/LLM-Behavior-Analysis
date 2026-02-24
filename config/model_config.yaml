@@ -1,0 +1,23 @@
+models:
+  gpt2:
+    model_name: "gpt2"
+    model_path: "gpt2"
+    device: "cuda"
+    max_new_tokens: 50
+    temperature: 0.0
+  flan_t5:
+    model_name: "flan-t5-base"
+    model_path: "google/flan-t5-base"
+    device: "cuda"
+    max_new_tokens: 50
+    temperature: 0.0
+  phi-1_5:
+    model_name: "phi-1_5"
+    model_path: "microsoft/phi-1_5"
+    device: "cuda"
+    max_new_tokens: 50
+    temperature: 0.0
+
+
+    
+
